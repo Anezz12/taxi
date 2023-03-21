@@ -1,0 +1,15 @@
+D:\tugas\Pemrograman\taxii\taxii\bin\Debug\net6.0\taxii.exe
+D:\tugas\Pemrograman\taxii\taxii\bin\Debug\net6.0\taxii.deps.json
+D:\tugas\Pemrograman\taxii\taxii\bin\Debug\net6.0\taxii.runtimeconfig.json
+D:\tugas\Pemrograman\taxii\taxii\bin\Debug\net6.0\taxii.dll
+D:\tugas\Pemrograman\taxii\taxii\bin\Debug\net6.0\taxii.pdb
+D:\tugas\Pemrograman\taxii\taxii\obj\Debug\net6.0\taxii.csproj.AssemblyReference.cache
+D:\tugas\Pemrograman\taxii\taxii\obj\Debug\net6.0\taxii.GeneratedMSBuildEditorConfig.editorconfig
+D:\tugas\Pemrograman\taxii\taxii\obj\Debug\net6.0\taxii.AssemblyInfoInputs.cache
+D:\tugas\Pemrograman\taxii\taxii\obj\Debug\net6.0\taxii.AssemblyInfo.cs
+D:\tugas\Pemrograman\taxii\taxii\obj\Debug\net6.0\taxii.csproj.CoreCompileInputs.cache
+D:\tugas\Pemrograman\taxii\taxii\obj\Debug\net6.0\taxii.dll
+D:\tugas\Pemrograman\taxii\taxii\obj\Debug\net6.0\refint\taxii.dll
+D:\tugas\Pemrograman\taxii\taxii\obj\Debug\net6.0\taxii.pdb
+D:\tugas\Pemrograman\taxii\taxii\obj\Debug\net6.0\taxii.genruntimeconfig.cache
+D:\tugas\Pemrograman\taxii\taxii\obj\Debug\net6.0\ref\taxii.dll
